@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is how I am spending my time on Github. It's not much but I am starting out and getting the hang of using Git and Github.
+I am a front-end developer and designer who is currently starting out in my career. Here are my Github stats and most-used languages:
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=andyt96&theme=nightowl&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
 
