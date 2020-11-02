@@ -2,6 +2,8 @@
 
 I am a front-end developer and designer who is currently starting out in my career.
 
+![I voted!](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
+
 ### Things I love to use
 
 macOS • Firefox / Chrome • The command line • HTML / CSS / JavaScript • Sass • Git • Tailwind CSS • VS Code • Netlify • Codepen • Adobe XD / Figma • Vectornator • Google Fonts • MDN Web Docs • NetNewsWire with Feedly sync • Bitwarden • NextDNS • Notion • Unsplash
