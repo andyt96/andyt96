@@ -8,4 +8,4 @@ macOS • Firefox / Chrome • The command line • HTML / CSS / JavaScript • 
 
 ### Things I want to learn or get better at
 
-React / Angular / Vue • PostCSS • TypeScript • SSGs like Next.js, Eleventy and GatsbyJS • GraphQL • Electron
+React / Vue / Svelte • PostCSS • TypeScript • SSGs like Next.js, Eleventy and GatsbyJS • GraphQL • Electron
